@@ -5,6 +5,7 @@ plugins {
 
 android {
     compileSdk 32
+    buildToolsVersion "31.0.0"
 
     defaultConfig {
         applicationId "com.piyachat.jenkins.example.androidtestbuild01"
