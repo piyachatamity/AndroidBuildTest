@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "AndroidTestBuild01"
 include ':app'
 include ':HelloModule'
+include ':hellolibrary'
