@@ -47,8 +47,8 @@ afterEvaluate {
                 from components.release
 
                 groupId = 'com.github.piyachatamity'
-                artifactId = 'AndroidBuildTest'
-                version = '0.0.3'
+                artifactId = 'hellolibrary'
+                version = '0.0.4-alpha02'
             }
         }
     }
